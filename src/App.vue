@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <fft_renderer
+            name="Wiegraf Folles"
+            msg="If the penalty for a crime is a fine, then that law only exists for the lower class."/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import fft_renderer from './components/fft_renderer.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    fft_renderer
   }
 }
 </script>
