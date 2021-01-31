@@ -1,5 +1,7 @@
 # fftactics_fonter
 
+Just a simple exercise in css text handling based on Final Fantasy's Dialog box
+
 ## Project setup
 ```
 npm install
