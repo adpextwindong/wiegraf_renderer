@@ -2,6 +2,12 @@
 
 Just a simple exercise in css text handling based on Final Fantasy's Dialog box
 
+Here's a preview of what it looks like:
+
+![](./readme_assets/preview.png)
+
+I would like to work on this some more and integrate it with a THREEjs based game engine or something eventually.
+
 ## Project setup
 ```
 npm install
